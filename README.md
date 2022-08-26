@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maarcosrx
-- 👀 I’m interested in learn about program and developing and about the various programming languages and all their possibilities.
+- 👀 I’m interested in learn about program and development and about the various programming languages and all their possibilities.
 - 👨🏻‍💻 I’m currently learning HTML, CSS, JavaScript and programming logic.
 - 💞️ I’m looking to collaborate on something to help me improve my portfolio and my progaming/development knowledge 
 - 📫 How to reach me:
