@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @maarcosrx<br>👀 I’m interested in learn about program and development and about the various programming languages and all their possibilities.<br>👨🏻‍💻 I’m currently on the Sharp Coders Studying Programming to be a FullStack Developer<br>👨🏻‍💻 Learning about C#.<br>📚 Later in the program, I will learn about HTML5, CSS, JavaScript, Node.js and React.<br>💞️ I’m looking to collaborate on something to help me improve my portfolio and my progaming/development knowledge<br>
+👋 Hi, I’m @maarcosrx<br>👀 I’m interested in learn about programming and development and about the various programming languages and all their possibilities.<br>👨🏻‍💻 I’m currently on the Sharp Coders Studying Bootcamp to be a FullStack Developer<br>👨🏻‍💻 Learning about C#, HTML5, CSS, JavaScript, .<br>📚 Later in the bootcamp, I will learn about TypeScript, Node.js and React.<br>💞️ I’m looking to collaborate on something to help me improve my portfolio and my progaming/development knowledge<br>
 
 
 ## 🌐 Socials:
