@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in learn about programming and development and about the various programming languages and all their possibilities.<br>👨🏻‍💻 I'm currently in the 1000devs 2023 program offered by mesttra, Johnson & Johnson MedTech and Hospital Israelita Albert Einstein <br>👨🏻‍💻 Learning JavaScript about programming logic.<br>📚 Later in the program, I will learn about Node.js.<br>💞️ I’m looking to collaborate on something to help me improve my portfolio and my progaming/development knowledge
+👀 I’m interested in learn about programming and development and about the various programming languages and all their possibilities.<br>👨🏻‍💻 I'm currently in the 1000devs 2023 program offered by mesttra, Johnson & Johnson MedTech and Hospital Israelita Albert Einstein <br>👨🏻‍💻 Learning JavaScript about programming logic.<br>📚 Later in the program, I will learn about Node.js an OOP.<br>💞️ I’m looking to collaborate on something to help me improve my portfolio and my progaming/development knowledge
 
 
 ## 🌐 Socials:
